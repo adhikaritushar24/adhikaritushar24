@@ -18,7 +18,6 @@ CS student • Developer • Problem Solver<br><br>I enjoy turning ideas into pr
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adhikaritushar24/adhikaritushar24/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/adhikaritushar24/adhikaritushar24/output/pacman-contribution-graph.svg">
 </picture>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
