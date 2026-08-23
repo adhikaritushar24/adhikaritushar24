@@ -13,9 +13,11 @@ CS student • Developer • Problem Solver<br><br>I enjoy turning ideas into pr
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=adhikaritushar24&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 # 🟡 Pac-Man Contributions
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adhikaritushar24/adhikaritushar24/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adhikaritushar24/adhikaritushar24/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adhikaritushar24/adhikaritushar24/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/adhikaritushar24/adhikaritushar24/output/pacman-contribution-graph.svg">
+</picture>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
