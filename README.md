@@ -19,5 +19,3 @@ CS student • Developer • Problem Solver<br><br>I enjoy turning ideas into pr
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/adhikaritushar24/adhikaritushar24/output/pacman-contribution-graph.svg">
 </picture>
 
-
-
