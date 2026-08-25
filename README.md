@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 CS student • Developer • Problem Solver<br><br>I enjoy turning ideas into projects and problems into solutions.<br><br>Currently exploring **DSA & Full-Stack Development**<br>and working on becoming a better developer, one commit at a time. 🚀<br>
 
 
